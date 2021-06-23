@@ -5,6 +5,6 @@ const char* Log (const char* message)
 
 int Multply (int a, int b)
 {
-    Log("Multiply")
-    ;return 2 * 2;
+    Log("Multiply");
+    return 2 * 2;
 }    
